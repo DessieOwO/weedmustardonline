@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap');
+body {
+    background-color: beige;
+    color:black;
+}
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+a {
+    cursor:pointer;
+    text-decoration-line: underline;
+    color: rgb(49, 1, 49);
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.domine-default> {
+  font-family: "Domine", serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+}
